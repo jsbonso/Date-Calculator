@@ -1,0 +1,11 @@
+
+[0m[0m
+[0m  Date Calculator[0m
+[0m    #getDaysDiff()[0m
+[2K[0G    [32m  ✓[0m[90m should return number of days difference.[0m
+[2K[0G    [32m  ✓[0m[90m should return number of days difference consistently.[0m
+[2K[0G    [32m  ✓[0m[90m should still work even the start and end dates were misplaced[0m
+
+
+[92m [0m[32m 3 passing[0m[90m (4ms)[0m
+
